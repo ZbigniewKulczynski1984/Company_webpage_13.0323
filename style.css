@@ -62,8 +62,8 @@ svg {
 
 #svg-circle {
     stroke-dasharray: 1256;
-    stroke-dashoffset: 1256;
-}
+    stroke-dashoffset: 1256; 
+} 
 
 span {
     position: absolute;
