@@ -12,3 +12,22 @@
     background-position: center;
     background-size: cover;
 }
+
+.navbar {
+    width: 85%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    padding: 30px;
+}
+
+.logo {
+    flex-basis: 20%;
+}
+.logo i {
+    font-size: 120px;
+    color: #a9c9c9;
+    cursor: pointer;
+}
+
+
