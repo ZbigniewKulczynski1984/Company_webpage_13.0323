@@ -52,3 +52,49 @@ nav ul li {
     left: 50%;
     transform: translate(-50%, -50%);
 }
+
+svg {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#svg-circle {
+    stroke-dasharray: 1256;
+    stroke-dashoffset: 1256;
+}
+
+span {
+    position: absolute;
+    height: 10px;
+    width: 10px;
+    background: #fff;
+    border-radius: 50%;
+    display: block;
+    cursor: pointer;
+}
+
+#step-one {
+    right: 160px;
+    bottom: 30px;
+}
+
+#step-two {
+    left: -240px;
+    bottom: 106px;
+}
+
+#step-three {
+    left: 20px;
+    top: -203px;
+}
+#step-four {
+    top: -69px;
+    right: -220px;
+}
+
+#step-five {
+    top: 186px;
+    right: -140px;
+}
