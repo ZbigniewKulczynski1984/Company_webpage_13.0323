@@ -30,5 +30,6 @@ stepFour.addEventListener('click', () => {
 
 stepFive.addEventListener('click', () => {
 	svgCircle.style.strokeDashoffset = '0';
-    main.style.backgroundImage = 'url(img/img-6.jpg)';
+    main.style.backgroundImage = 'url(img/img-1.jpg)';
 });
+
