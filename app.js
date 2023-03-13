@@ -1,0 +1,6 @@
+const svgCircle = document.getElementById('svgCircle')
+const stepOne = document.getElementById('step-one')
+const stepTwo = document.getElementById('step-two')
+const stepThree = document.getElementById('step-three')
+const stepFour = document.getElementById('step-four')
+const stepFive = document.getElementById('step-five')
