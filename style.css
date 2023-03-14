@@ -112,8 +112,19 @@ span {
 
 .user img {
     width: 80px;
+	margin-bottom: 10px;
+	border-radius: 50%;
 }
 
 .social-links img{
     width: 20px;
+	border-radius: 0;
+	padding: 2px;
+	cursor: pointer;
+}
+
+.user-box p {
+	margin: 20px 0;
+	color: #c0c0c0;
+	line-height: 25px;
 }
